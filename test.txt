@@ -2,3 +2,7 @@ Dette er en test!
 Her er noen endringer
 
 Changes made in the develop branch.
+
+lets do some more stuff!
+
+even more stuff!
